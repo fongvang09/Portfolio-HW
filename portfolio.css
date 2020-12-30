@@ -1,0 +1,51 @@
+.body h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+}
+
+.abc {
+    font-size: 32px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.abcd {
+    font-size: 32px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.mypic {
+    width: auto;
+    height: auto;
+}
+
+.col-lg-2 {
+    height: 100%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.navbar-expand-sm {
+    display: block;
+    /* padding-bottom: auto; */
+    padding-right: auto;
+}
+
+.bodybgc {
+    background-color: rgb(128, 145, 139);
+}
+
+.test {
+    height: 100%;
+    background-color: #ececec;
+}
