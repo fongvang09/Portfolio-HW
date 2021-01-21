@@ -12,8 +12,8 @@ Probably implement more of what I learned recently such as Javascript, jQuery an
 
 ## Screenshot
 
+![aboutme-ss.JPG](aboutme-ss.JPG)
 ![updatedportfolio-ss.JPG](updatedportfolio-ss.JPG)
-![aboutme-ss.JPG]()aboutme-ss.JPG)
 ![updatedcontact-ss.JPG](updatedcontact-ss.JPG)
 
 ## Links
