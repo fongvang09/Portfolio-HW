@@ -1,43 +1,30 @@
-.body h1 {
+body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: red;
 }
 
-.abc {
+h2 {
     font-size: 32px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
 
-.abcd {
-    font-size: 32px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-img {
+body img {
     width: 100%;
-    height: auto;
 }
 
-.mypic {
-    width: auto;
-    height: auto;
+body section img {
+    float: left;
+    width: 200px;
+    margin: 0 20px 20px;
 }
 
-.col-lg-2 {
-    height: 100%;
-}
-
-.center {
-    display: block;
+.portfolio-img{
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
 }
 
 .navbar-expand-sm {
     display: block;
-    /* padding-bottom: auto; */
     padding-right: auto;
 }
 
@@ -45,7 +32,15 @@ img {
     background-color: rgb(128, 145, 139);
 }
 
-.test {
+.card {
     height: 100%;
     background-color: #ececec;
+}
+
+.text {
+    font-family: cursive;
+}
+
+.card-body {
+    margin: 0px;
 }
