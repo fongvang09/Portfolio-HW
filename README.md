@@ -12,9 +12,9 @@ Probably implement more of what I learned recently such as Javascript, jQuery an
 
 ## Screenshot
 
-![aboutme-ss.JPG](aboutme-ss.JPG)
-![updatedportfolio-ss.JPG](updatedportfolio-ss.JPG)
-![updatedcontact-ss.JPG](updatedcontact-ss.JPG)
+![aboutme-ss.JPG](images/aboutme-ss.JPG)
+![updatedportfolio-ss.JPG](images/updatedportfolio-ss.JPG)
+![updatedcontact-ss.JPG](images/updatedcontact-ss.JPG)
 
 ## Links
 
