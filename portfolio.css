@@ -14,7 +14,7 @@ body img {
 body section img {
     float: left;
     width: 200px;
-    margin: 0 20px 20px;
+    margin: 20px;
 }
 
 .portfolio-img{
