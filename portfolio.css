@@ -44,3 +44,16 @@ body section img {
 .card-body {
     margin: 0px;
 }
+
+ul {
+    list-style-type: none;
+}
+
+section li {
+    text-align: center;
+}
+
+section img {
+    border-style: dashed;
+    border-width: 1px;
+}
