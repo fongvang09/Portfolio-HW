@@ -18,6 +18,6 @@ Probably implement more of what I learned recently such as Javascript, jQuery an
 
 ## Links
 
-https://fongvang09.github.io/Portfolio-HW/
+Deployed: https://fongvang09.github.io/Portfolio-HW/
 
-https://github.com/fongvang09/Portfolio-HW
+GitHub: https://github.com/fongvang09/Portfolio-HW
