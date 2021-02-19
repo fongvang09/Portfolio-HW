@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 My portfolio contains random pictures of me as well as a quick bio about myself. The most updated portfolio provides even more pictures and also a paragraph about what I've been doing. There is a contacts page, a portfolio page which mainly has images and lastly an 'about me' page. Inside the deployed link on the portfolio page, there'll be my LinkedIn URL along with a link to my resume via Indeed.
 
