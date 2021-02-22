@@ -57,3 +57,7 @@ section img {
     border-style: dashed;
     border-width: 1px;
 }
+
+a {
+    color: blue;
+}
